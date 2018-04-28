@@ -1,0 +1,14 @@
+public Class add {
+ public int age ; 
+ public String name; 
+ 
+ 
+ public boolean addName(Name a){
+ if (nba < arr.length){
+ arr[nba++] = new Name(a) ;
+ return true ; 
+ } 
+ retirn false ; 
+ }
+ }
+ 
